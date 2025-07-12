@@ -5,8 +5,8 @@
 
 
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najaf2fnacc@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/najaf-ali-07029a358)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahamfatimakhan19@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 
 </div>
@@ -55,9 +55,8 @@
 
 ## `::Contribution Snake::`
 
+![snake svg](https://github.com/MAFA-KHAN/MAHAM-FATIMA/blob/output/dist/github-snake.svg)
 
-
-![snake gif](https://github.com/Maham-Fatima/NajafAli/blob/output/github-snake-dark.svg)
 
 
 </div>
