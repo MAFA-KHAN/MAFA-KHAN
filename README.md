@@ -61,21 +61,25 @@
 
 <div align="center">
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/MAFA-KHAN/MAHAM-FATIMA/blob/output/github-snake-dark.svg)
+
+</div>
+
+
+---
+
+<div align="center">
+
 ##  Coding Metrics
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAFA-KHAN&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph">
 
 </div>
 
----
 
-<div align="center">
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/MAFA-KHAN/MAHAM-FATIMA/blob/output/github-snake-dark.svg)
-
-</div>
 
 ---
 
