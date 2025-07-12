@@ -63,7 +63,7 @@
 
 ##  Coding Metrics
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maham-Fatima&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MAFA-KHAN&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph">
 
 </div>
 
