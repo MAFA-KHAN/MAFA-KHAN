@@ -15,16 +15,16 @@
 
 ##  GitHub Stats
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Maham-Fatima&theme=shadow_blue&hide_border=true)<br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maham-Fatima&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maham-Fatima&theme=shadow_blue&hide_border=true&layout=compact)
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=MAFA-KHAN&theme=shadow_blue&hide_border=true)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAFA-KHAN&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAFA-KHAN&theme=shadow_blue&hide_border=true&layout=compact)
 
 </div>
 
----
+
 <!-- TECH STACK SECTION -->
 
-<div align="center">
+<!--div align="center">
 
 
 <!--## `< Tech Stack />`
