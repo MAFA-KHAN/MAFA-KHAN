@@ -55,7 +55,8 @@
 
 ## `::Contribution Snake::`
 
-![snake svg](https://github.com/MAFA-KHAN/MAHAM-FATIMA/blob/output/dist/github-snake.svg)
+![snake gif](https://github.com/MAFA-KHAN/MAHAM-FATIMA/blob/output/github-snake-dark.svg)
+
 
 
 
