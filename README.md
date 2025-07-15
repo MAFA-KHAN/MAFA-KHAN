@@ -19,7 +19,7 @@
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAFA-KHAN&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAFA-KHAN&theme=shadow_red&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAFA-KHAN&theme=radical&hide_border=true&layout=compact)
 
 
 </div>
