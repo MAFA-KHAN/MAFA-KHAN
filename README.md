@@ -8,6 +8,7 @@
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() -->
 
 
+
 </div>
 
 ---
@@ -52,4 +53,6 @@
 
 
 ---
-
+<div align="center">
+  <img src=".github/workflows/GIF.gif" alt="Mascot Animation" width="260" />
+</div>
