@@ -1,7 +1,8 @@
 <div align="center">
 
 #  Maham Fatima  
-_Evolving...!_
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=800&color=FF4C4C&center=true&vCenter=true&width=600&lines=💻+AI+Scholar+|+Evolving;🚀+Design+•+Develop+•+Deploy" alt="Typing SVG" />
+
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahamfatimakhan19@gmail.com)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() -->
