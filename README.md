@@ -44,7 +44,7 @@
 <div align="center">
 
 ##  Coding Metrics
-]'[RF6\`  `
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAFA-KHAN&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph">
 
 </div>
@@ -53,6 +53,6 @@
 
 
 ---
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4C4C&height=100&section=footer" width="100%" />
+
 </div>
