@@ -32,12 +32,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MAFA-KHAN&theme=github_dark_blue&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MAFA-KHAN&hide_border=true&background=0D1B2A&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9&sideLabels=8B9BB4&dates=5C7290&currStreakNum=ffffff&sideNums=ffffff)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAFA-KHAN&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAFA-KHAN&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1B2A&title_color=4A90D9&text_color=8B9BB4&icon_color=4A90D9&border_color=152A45)
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAFA-KHAN&theme=github_dark&hide_border=true&layout=compact)
