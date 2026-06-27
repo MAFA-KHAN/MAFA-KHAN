@@ -1,8 +1,8 @@
-#!/usr/bin/env ruby
+
 require 'nokogiri'
 require 'open-uri'
 
-# Use an environment variable for the username or replace 'yourusername' with your GitHub username
+
 username = ENV['GITHUB_USERNAME'] || 'Maham-Fatima'
 url = "https://github.com/#{username}"
 
@@ -14,11 +14,10 @@ contrib_boxes = document.at_css('div.js-yearly-contributions svg')
 >>>>>>> 876590fa6b2677844297c3d4b0fc2870cff6daa2
 contrib_boxes['xmlns'] = "http://www.w3.org/2000/svg"
 
-# Optional: You can set width/height via environment variables or use defaults
 width = (ENV['WIDTH'] || (54*13-2)).to_i
 height = (ENV['HEIGHT'] || 89).to_i
 
-# Remove any text elements for a cleaner SVG
+
 contrib_boxes.css('text').remove
 
 contrib_boxes['width'] = (width + 11).to_s + 'px'
@@ -35,5 +34,5 @@ day_boxes.each_with_index do |box, m|
   end
 end
 
-# Output the SVG content
+
 puts contrib_boxes.to_html
