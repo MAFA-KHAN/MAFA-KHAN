@@ -4,7 +4,7 @@
 <div align="center">
 
 #  Maham Fatima  
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=800&color=FF4C4C&center=true&vCenter=true&width=600&lines=💻+AI+Scholar+|+Evolving;🚀+Design+•+Develop+•+Deploy" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=800&color=FF4C4C&center=true&vCenter=true&width=600&lines=💻+AI+Scholar;🚀+Design+•+Develop+•+Deploy" alt="Typing SVG" />
 
 <br/>
 
